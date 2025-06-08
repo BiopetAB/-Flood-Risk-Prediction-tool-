@@ -1,0 +1,45 @@
+License for Educational and Non-Commercial Use
+Software License
+The MIT License (MIT)
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, and distribute the Software, provided that the following conditions are met:
+
+Permitted Uses:
+* This Software may be used solely for educational, research, and non-commercial purposes.
+* Redistribution of this Software is permitted, provided that it is done at no cost to the recipient, and includes this license in its entirety.
+
+Prohibited Uses:
+* This Software and its derivatives may not be sold, rented, or used for any commercial purposes.
+* Distribution for any purpose involving monetary exchange or commercial gain is expressly prohibited.
+
+Attribution:
+* The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+* Appropriate credit must be provided to the authors of the Software when using it in academic or educational publications.
+
+Modification and Derived Works:
+* Modifications or derived works must be distributed under the same terms and include clear attribution to the original authors of the Software.
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+Data Sources and Licensing:
+
+Postcode and Household Information
+* The postcode and household information is from data provided by the UK Office Of National Statistics under the Open Government Licence.
+* http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+Flood Risk Data
+* Flood risk data is derived from the [Environment Agency](https://environment.data.gov.uk/dataset/8d57464f-d465-11e4-8790-f0def148f590), adapted under the Open Government Licence.
+* http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+Soil Type Data
+* Soil type data is derived from the National Soil Resources Institute maps of the [soilscapes for England and Wales](http://www.ukso.org/static-maps/soils-of-england-and-wales.html).
+
+Watercourse Data
+* Watercourse data is take from the Ordnance Survey's [Open Rivers](https://www.ordnancesurvey.co.uk/business-and-government/products/os-open-rivers.html) dataset, adapted under the [OS Open Data Licence](www.os.uk/opendata/licence)
+
+Shape Files & Plotting Data
+* Shape files sourced from https://www.naturalearthdata.com/downloads/50m-cultural-vectors/
